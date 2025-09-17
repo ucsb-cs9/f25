@@ -19,13 +19,13 @@ home:
    baseurl: /
 
 offerings:
-   title: "f24"
+   title: "f25"
    url: /	
-   baseurl: /f24
+   baseurl: /f25
    items:
-      - title: "f24"
+      - title: "f25"
         url: /
-        baseurl: /f24
+        baseurl: /f25
 
 offering_links:
    - title: Cal
@@ -34,4 +34,4 @@ offering_links:
    - title: Github
      dropdown:
          - title: f24
-           url: https://github.com/ucsb-cs9/f24
+           url: https://github.com/ucsb-cs9/f25
