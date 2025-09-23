@@ -13,8 +13,32 @@ Richert Wang
 
 # TAs
 
-TBD
+Harlan Kringen
+* Lab Sections (11am, 1pm)
+* Wednesdays 10 - 11am, 12 - 1pm
+
+Jiaming Shan
+* Lab Sections (2pm, 4pm)
+* Fridays 4 - 6pm
+
+Yifan Yang
+* Lab Sections (11am, 1pm)
+* Tuesdays 3 - 5pm
+
+Zhen Zhang
+* Lab Sections (2pm, 4pm)
+* Mondays 1 - 3pm
 
 # Learning Assistants
 
-TBD
+Ysabel Chen
+* Lab Sections (11am, 1pm)
+* Thursdays 3:30 - 5:30pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+
+Emily Tian
+* Lab Sections (11am, 1pm)
+* Thursdays 5 - 7pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+
+Cindy Zhao
+* Lab Sections (2pm, 4pm)
+* Fridays 2 - 4pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
