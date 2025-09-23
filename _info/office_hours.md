@@ -15,19 +15,19 @@ Richert Wang
 
 Harlan Kringen
 * Lab Sections (11am, 1pm)
-* Wednesdays 10 - 11am, 12 - 1pm
+* Wednesdays 10 - 11am, 12 - 1pm (SSMS 1301 [https://maps.app.goo.gl/MNPyiKoJHH1dLxqM8](https://maps.app.goo.gl/MNPyiKoJHH1dLxqM8))
 
 Jiaming Shan
 * Lab Sections (2pm, 4pm)
-* Fridays 4 - 6pm
+* Fridays 4 - 6pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Yifan Yang
 * Lab Sections (11am, 1pm)
-* Tuesdays 3 - 5pm
+* Tuesdays 3 - 5pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Zhen Zhang
 * Lab Sections (2pm, 4pm)
-* Mondays 1 - 3pm
+* Mondays 1 - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 # Learning Assistants
 
