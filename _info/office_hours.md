@@ -37,7 +37,7 @@ Ysabel Chen
 
 Emily Tian
 * Lab Sections (11am, 1pm)
-* Thursdays 5 - 7pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Tuesdays 5 - 7pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Cindy Zhao
 * Lab Sections (2pm, 4pm)
