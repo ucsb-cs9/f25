@@ -15,7 +15,8 @@ Richert Wang
 
 Harlan Kringen
 * Lab Sections (11am, 1pm)
-* Wednesdays 10 - 11am, 12 - 1pm (SSMS 1301 [https://maps.app.goo.gl/MNPyiKoJHH1dLxqM8](https://maps.app.goo.gl/MNPyiKoJHH1dLxqM8))
+* Wednesdays 10 - 11am (Phelps 3410 [https://maps.app.goo.gl/yXKZbm8AQQASi6ev9](https://maps.app.goo.gl/yXKZbm8AQQASi6ev9))
+* Wednesdays 12 - 1pm (SSMS 1301 [https://maps.app.goo.gl/MNPyiKoJHH1dLxqM8](https://maps.app.goo.gl/MNPyiKoJHH1dLxqM8))
 
 Jiaming Shan
 * Lab Sections (2pm, 4pm)
