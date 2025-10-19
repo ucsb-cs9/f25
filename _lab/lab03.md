@@ -18,7 +18,7 @@ For this lab, you will need to create two files:
 * `lab03.py` - file containing your solution to all recursive functions you will implement in this lab.
 * `testFile.py` - file containing pytest functions testing all recursive functions you will implement in this lab. **Note:**
     * Gradescope's autograder requires you to submit your `testFile.py` in order for it to run your code (hopefully you're practicing TDD and use your tests to check correctness!). Gradescope will also require you to provide all function definitions (even if incorrect) in `lab03.py` in order to run the tests.
-    * For your tests, be sure to use scenarios that avoid stack overflows (since Gradescope will consider large scenarios as that exceed the maximum recursion depth).
+    * For your tests, be sure to use scenarios that avoid stack overflows (since Gradescope will consider large scenarios that exceed the maximum recursion depth as errors).
 
 There will be no starter code for this assignment, but rather function descriptions are given in the specification below.
 
