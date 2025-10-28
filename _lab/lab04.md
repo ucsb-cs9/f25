@@ -133,7 +133,7 @@ The `solveMaze` function will utilize a Stack and update the maze elements with 
 
 ## `Stack.py`
 
-This file will simply contain a Stack class implementation **exactly** as the one covered in the book using Python Lists (we also cover this implementation in lecture - no need to write pytests for this, but Gradescope will check to see if this implementation is correct). This should contain a constructor (`__init__`), and the `isEmpty`, `push`, `pop`, `peek`, and `size` methods. Your solution **must** utilize the Stack data structure and any of its methods to manage the traversal through the maze.
+This file will simply contain a Stack class implementation **exactly** as the one covered in the book using Python Lists (we also cover this implementation in lecture, but Gradescope will check to see if this implementation is correct). This should contain a constructor (`__init__`), and the `isEmpty`, `push`, `pop`, `peek`, and `size` methods. Your solution **must** utilize the Stack data structure and any of its methods to manage the traversal through the maze.
 
 ## `testFile.py` pytest
 
