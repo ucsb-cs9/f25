@@ -59,7 +59,7 @@ The initial maze element can have one of three states:
 
 ## Traversing the maze
 
-Your program will need to traverse the 2D maze given a starting coordinate. As your program traverses the maze, you will need to keep track of the number of steps your algorithm takes and replace the `' '` elements in the maze as you move along with the number of steps value. (Lists (and 2D Lists) are mutable, so we should be able to change the maze structure as our algorithm progresses and it should keep these changes!). You may traverse the spaces horizontally and vertically (not diagonally). 
+Your program will need to traverse the 2D maze given a starting coordinate. As your program traverses the maze, you will need to keep track of the number of steps your algorithm takes and replace the `' '` elements in the maze as you move along with the number of steps value. (Lists (and 2D Lists) are mutable, so we should be able to change the maze structure as our algorithm progresses and it should keep these changes!). Your code should store the steps in the maze as integers. You may traverse the spaces horizontally and vertically (not diagonally). 
 
 **You must implement your traversal in following way**:
 
