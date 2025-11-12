@@ -42,4 +42,4 @@ Emily Tian
 
 Cindy Zhao
 * Lab Sections (2pm, 4pm)
-* Fridays 2 - 4pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Fridays 1 - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
